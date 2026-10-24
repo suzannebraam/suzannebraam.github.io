@@ -1,4 +1,4 @@
-# Portfolio | Technical Writer
+# Portfolio | Technical Writing
 
 Welcome to my technical writing portfolio. I specialize in structured documentation, modern Docs-as-Code workflows, and SaaS data formatting.
 
