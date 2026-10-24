@@ -8,6 +8,11 @@ Welcome! I am a technical writer specializing in making complex software intuiti
 * **What it is:** A comprehensive reference guide for a real estate listing data endpoint.
 * **Skills demonstrated:** REST API logic, JSON payloads, query parameters, technical definitions.
 
+### 2. [Feature Guide: Getting Started with QuickSaaS](link-to-your-sample-file.md)
+* **What it is:** A comprehensive task-oriented user guide for a cloud-based interface.
+* **Skills demonstrated:** Task-based authoring, workflow optimization, structured Markdown.
+
+
 ## Core Technical Skills
 * **Languages:** Markdown, JSON, HTML
 * **Tools:** Git, GitHub, Postman, VS Code
