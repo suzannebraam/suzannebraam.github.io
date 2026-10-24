@@ -1,6 +1,6 @@
 # Portfolio | Technical Writing
 
-Welcome to my technical writing portfolio. I specialize in structured documentation, modern Docs-as-Code workflows, and SaaS data formatting.
+Welcome! I am a technical writer specializing in making complex software intuitive, accessible, and highly structured. Here are some samples of my work, ranging from conceptual guides to API documentation.
 
 ## Writing Samples
 
