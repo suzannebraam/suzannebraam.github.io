@@ -63,7 +63,7 @@ A successful request returns a JSON array containing matching properties, their 
         "postal_code": "N2J 2E4"
       },
       "pricing": {
-        "list_price": 799000,
+        "list_price": 999000,
         "currency": "CAD"
       },
       "features": {
