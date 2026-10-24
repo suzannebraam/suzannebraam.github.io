@@ -35,10 +35,10 @@ Authorization: Bearer YOUR_ORGANIZATION_TOKEN
 
 ## Sample Request
 
-This example requests all active property listings in Waterloo with a maximum budget of $850,000 and at least 3 bedrooms.
+This example requests all active property listings in Waterloo with a maximum budget of $1,000,000 and at least 3 bedrooms.
 
 ```bash
-curl -X GET "https://prophub-saas.com?city=Waterloo&max_price=850000&min_bedrooms=3&status=active" \
+curl -X GET "https://prophub-saas.com?city=Waterloo&max_price=1000000&min_bedrooms=3&status=active" \
   -H "Authorization: Bearer ph_live_token882"
 ```
 
