@@ -1,6 +1,6 @@
 # Portfolio | Technical Writing
 
-Welcome! I create clear, user-focused software documentation, technical guides, and training materials for technology companies, small businesses, and nonprofit organizations. Here are some samples of my work, ranging from conceptual guides to API documentation.
+Welcome! I create software user guides, API documentation, and SOP and training materials for technology companies, small businesses, and nonprofit organizations. Here are some samples of my work.
 
 ## Writing Samples
 
