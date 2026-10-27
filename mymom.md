@@ -3,9 +3,7 @@
 Good morning. <br>
 On behalf of our family, we want to thank you for coming to celebrate Mom’s life with us and for all the support you showed us during this difficult month. 
 If you were here for my Dad’s service, you heard about what a hard worker he was, but what you may not realize is that Mom was very busy too. 
-Just like in the poem we read, Mom’s hands were always busy.<br> 
-
-_Mom had working hands, mending hands, and praying hands_. 
+Just like in the poem we read, Mom’s hands were always busy.<br> _Mom had working hands, mending hands, and praying hands_. 
 
 ## First, Mom had working hands.
 
@@ -39,12 +37,12 @@ Birthdays meant chocolate cake.
 On the morning of our birthday, Mom would get up early and wake us up by singing "Happy Birthday" holding a cake and candles.<br>
 We got to blow out the candles and open our present before we went to school, and then we ate chocolate cake for breakfast.
 
-### _But the baking we looked forward to most was Mom’s apple pie, which she made for every occasion_. 
+### But the baking we looked forward to most was Mom’s apple pie, which she made for _every_ occasion. 
 
 Mom was very artistic. And whenever she made a pie, instead of just piercing the steam vents, she would draw a picture in the dough.<br> 
 Mostly it was a branch with flowers, but at Easter it would be a cross, or at Christmas it would be a tree, candle, or wreath.<br> 
 
-### _Each pie was a work of art, created with love with her hard-working hands_. 
+### _Each pie was a work of art, created with love from her hard-working hands_. 
 
 ## Second, Mom had mending hands. 
 
@@ -134,9 +132,7 @@ _From the Jesus picture hanging in her room to the fact that mom bowed her head 
 The day before Dad passed away, we were praying in Dad’s room when Mom looked up and said, “I see angels\!” <br>
 We asked where and she pointed to Dad’s head and Dad’s feet and she suddenly understood that Dad was going to be with Jesus. <br>
 
-### _God loved Mom so much_ <br>
-### _that He let the woman who loved angels see angels escorting her husband home. Mom had praying hands_.  
-
+### _God loved Mom so much that He let the woman who loved angels see angels escorting her husband home. Mom had praying hands_.  
 
 ## In Closing
 
