@@ -135,7 +135,7 @@ _From the Jesus picture hanging in her room to the fact that mom bowed her head 
 The day before Dad passed away, we were praying in Dad’s room when Mom looked up and said, “I see angels\!” <br>
 We asked where and she pointed to Dad’s head and Dad’s feet and she suddenly understood that Dad was going to be with Jesus. <br>
 
- ### _God loved Mom so much that he let the woman who loved angels see angels escorting her husband home. Mom had praying hands_.  
+ ### _God loved Mom so much that He let the woman who loved angels see angels escorting her husband home. Mom had praying hands_.  
 
 
 ## In Closing
