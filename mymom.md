@@ -51,7 +51,7 @@ Mostly it was a branch with flowers, but at Easter it would be a cross,or at Chr
 In addition to being a skilled cook, she was very crafty.<br> 
 She knitted, crocheted, painted, and sewed.<br>
 
-### Because mom’s first language was German, she struggled with reading, so she didn’t really read patterns.
+### Because Mom’s first language was German, she struggled with reading, so she didn’t really read patterns.
 
 She could just look at something and figure out how it was made.<br>
 And many times she could modify and improve on how it was made.
@@ -71,15 +71,15 @@ She made an Easter dress for me.<br>
 
 She let out waistbands, patched knees, darned socks, shortened sleeves and hemmed countless pairs of pants.<br>
   
-### And just as mom was a mender of clothes, she was also a mender of relationships. 
+### And just as Mom was a mender of clothes, she was also a mender of relationships. 
 
 Mom was the peacemaker of the family.<br>
-When personalities would clash, mom was the one who picked up the pieces and sewed them back together. 
+When personalities would clash, Mom was the one who picked up the pieces and sewed them back together. 
 
 ### Mom once crocheted a tablecloth that had a complicated pattern sized for a table much larger than hers. 
 
 Mom was able to adapt the difficult pattern so that it fit her smaller table perfectly.<br>
-In the same way, mom was the one who was adaptable. 
+In the same way, Mom was the one who was adaptable. 
 
 ### She made the adjustments that were needed to accommodate her environment.<br>
 
@@ -102,9 +102,9 @@ She could rescue any plant that was on the verge of death and she could make it 
 My parents used to live across the street from me and when I would go on vacation, she would often look after my hanging pots and flowerbeds when we went away.<br>
 
 Now I have a black thumb, and usually by the time we left for vacation, my hanging pots were just about ready to be thrown out.<br>
-We would return from vacation, and when I would return after one or two week’s time, my baskets were overflowing with blooms, and they looked _**nicer**_ than they did when I bought them. 
+We would return from vacation after one or two week’s time, and my baskets were overflowing with blooms, and they looked _**nicer**_ than they did when I bought them. 
 
-_In the same way, mom’s joy and her personality and her love of the Lord would just over flow_.
+_In the same way, Mom’s joy and her personality and her love of the Lord would just over flow_.
 
 ### Mom was very musical and she loved to sing. 
 
@@ -114,10 +114,21 @@ Mom painted a beautiful picture of Jesus that has been hanging over her bed for 
 Mom also loved angels. <br>
 We always had an angel instead of a star on top of our Christmas tree, and she had a small collection of angel figurines.<br>
 
-Just before mom was diagnosed with Alzheimer’s, mom had a vision of an angel standing in her bedroom. 
+### Just before Mom was diagnosed with Alzheimer’s, Mom had a vision of an angel standing in her bedroom. 
 
-As her illness progressed, mom found it harder and harder to communicate. She could barely speak, but she could still pray and she could still sing those hymns. And although it was so hard to see her slip away, her illness in some ways was a blessing. Her illness shielded her from the pain of dad’s death. Her illness erased all the worries she carried. She became happy, silly, and so much fun to hang out with. She would greet us all like this: (wave)  
-She made everyone feel so special. She brought joy to others. From the Jesus picture hanging in her room to the fact that mom bowed her head and prayed before meals, people could tell that she loved Jesus and they wanted to be around her. Mom brought the joy of the Lord to others. 
+As her illness progressed, Mom found it harder and harder to communicate. <br>
+She could barely speak, but she could still pray and she could still sing those hymns.<br>
+
+### And although it was so hard to see her slip away, her illness in some ways was a blessing. 
+
+Her illness shielded her from the pain of Dad’s death.<br>
+Her illness erased all the worries she carried.<br>
+She became happy, silly, and so much fun to hang out with.<br>
+She would greet us all like this: (jazz hands wave) 
+
+She made everyone feel so special.<br>
+She brought joy to others. 
+From the Jesus picture hanging in her room to the fact that mom bowed her head and prayed before meals, people could tell that she loved Jesus and they wanted to be around her. Mom brought the joy of the Lord to others. 
 
 The day before dad passed away, we were praying in dad’s room when mom looked up and said “I see angels\!” We asked where and she pointed to dad’s head and dad’s feet and she suddenly understood that dad was going to be with Jesus. God loved mom so much that he let the woman who loved angels see angels escorting her husband home. Mom had praying hands.  
 So in closing, since it is so close to Christmas, and since we are here at WK church, I wanted to share our favourite Christmas memory. We grew up in this church, and we were always part of the Christmas program on Christmas Eve. So, we would get ready and then we’d all get in the car and wait for mom. And mom was always about 10 minutes late. And we’d sit in the car on the driveway and Dad would start to get impatient. He’d fiddle with the heat, sometimes he’d honk the horn, he’d keep checking his watch, and grumble “Oh, come on Frieda\! What’s taking so long\!”, and finally mom would get in the car and we’d go to church, and when we got home, we found that Santa had come\! The tree that was empty when we left was now overflowing when we got back\! And we were always so amazed that Santa knew when we were at church and that he came and did our house early because we opened our presents at night. And we didn’t clue in that reason why mom was always late was because she was busy putting all the presents under the tree, and that dad was just pretending to be annoyed.  
