@@ -109,7 +109,7 @@ Mom painted a beautiful picture of Jesus that has been hanging over her bed for 
 Mom also loved angels. <br>
 We always had an angel instead of a star on top of our Christmas tree, and she had a small collection of angel figurines.<br>
 
-### Just before Mom was diagnosed with Alzheimer’s, Mom had a vision of an angel standing in her bedroom. 
+### Just before she was diagnosed with Alzheimer’s, Mom had a vision of an angel standing in her bedroom. 
 
 As her illness progressed, Mom found it harder and harder to communicate. <br>
 She could barely speak, but she could still pray and she could still sing those hymns.<br>
