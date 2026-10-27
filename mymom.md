@@ -142,7 +142,7 @@ God loved mom so much....
 Since it is so close to Christmas, and since we are here at WK church, I wanted to share our favourite Christmas memory. 
 
 We grew up in this church, and we were always part of the Christmas program on Christmas Eve. <br>
-So, we would get ready and then we’d all get in the car and wait for Mom.<br>
+So, we would get ready for the Christmas program and then we’d all get in the car...and wait for Mom.<br>
 
 ### And Mom was always about 10 minutes late.
 
@@ -153,12 +153,14 @@ He’d honk the horn, he’d keep checking his watch, and he'd grumble:
 ### _“Oh, come on Frieda\! What’s taking so long?_”
 
 Finally Mom would get in the car and we’d go to church <br>
-and when we got home, we found that Santa had come\! 
+and I always noticed that Dad didn't say anything to Mom about having to wait\!<br>
+
+We'd perform in the play, and when we got home, we found that Santa had come\! 
 
 ### The tree that was empty when we left was now overflowing when we got back\! 
 
 And I was always so amazed that Santa knew that our family was German, and that we opened our presents at night, <br>
-so he made sure to come to our house early while we were at church!
+so he made sure to come to our house early while we were at church\!
 
 _And I didn’t clue in that reason why Mom was always late_ <br>
 _was because she was busy putting all the presents under the tree_...<br>
