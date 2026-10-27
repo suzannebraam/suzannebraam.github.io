@@ -38,8 +38,8 @@ Birthdays meant chocolate cake.
 
 On the morning of our birthday, Mom would get up early and wake us up by singing "Happy Birthday" holding a cake and candles.<br>
 We got to blow out the candles and open our present before we went to school, and then we ate chocolate cake for breakfast.
- 
- ### But the baking we looked forward to most was Mom’s apple pie, which she made for _every occasion_. 
+
+### But the baking we looked forward to most was Mom’s apple pie, which she made for _every occasion_. 
 
 Mom was very artistic. And whenever she made a pie, instead of just piercing the steam vents, she would draw a picture in the dough.<br> 
 Mostly it was a branch with flowers, but at Easter it would be a cross, or at Christmas it would be a tree, candle, or wreath. 
