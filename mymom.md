@@ -166,7 +166,7 @@ _was because she was busy putting all the presents under the tree_...<br>
 
 #### ..._and that Dad was just pretending to be annoyed_. 
 
-So, although this happened so soon after Dad passed away, <br>
+So, although Mom's passing happened so soon after Dad passed away, <br>
 we can just picture Dad in heaven, <br>
 and after waiting exactly one month to the day, <br>
 he looked at his watch, sighed, and said:
