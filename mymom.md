@@ -3,7 +3,7 @@
 Good morning. <br>
 On behalf of our family, we want to thank you for coming to celebrate Mom’s life with us and for all the support you showed us during this difficult month. 
 If you were here for my Dad’s service, you heard about what a hard worker he was, but what you may not realize is that Mom was very busy too. 
-Just like in the poem we read, Mom’s hands were always busy.<br> _Mom had working hands, mending hands, and praying hands_. 
+Just like [in the poem we read](./mothershands.md), Mom’s hands were always busy.<br> _Mom had working hands, mending hands, and praying hands_. 
 
 ## First, Mom had working hands.
 
