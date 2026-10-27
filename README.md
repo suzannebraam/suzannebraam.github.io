@@ -11,7 +11,7 @@ Here are some samples of my work.
 ## User Documentation and SOPs
 
 ### [User Guide: Reserving a Book](./.md)
-* User guide for a church community, describing how to reserve library books from the website
+_User guide for a church community
 * Demonstrates procedure writing for a non-technical user
 
 ### [SOP: Preparing a Comparative Market Analysis](./.md)
