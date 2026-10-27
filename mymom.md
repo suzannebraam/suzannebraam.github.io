@@ -43,7 +43,7 @@ We got to blow out the candles and open our present before we went to school, an
 
 Mom was very artistic. And whenever she made a pie, instead of just piercing the steam vents, she would draw a picture in the dough.<br> 
 Mostly it was a branch with flowers, but at Easter it would be a cross, or at Christmas it would be a tree, candle, or wreath.<br> 
-
+<br>
 _Each pie was a work of art, created with love with her hard-working hands_. 
 
 ## Second, Mom had mending hands. 
@@ -80,9 +80,8 @@ When personalities would clash, Mom was the one who picked up the pieces and sew
 
 Mom was able to adapt the difficult pattern so that it fit her smaller table perfectly.<br>
 In the same way, Mom was the one who was adaptable. <br>
-
-### _She made the adjustments that were needed to accommodate her environment: She had mending hands_.  
-
+<br>
+_She made the adjustments that were needed to accommodate her environment: She had mending hands_.  
 
 ## And finally, Mom had praying hands. 
 
@@ -134,8 +133,8 @@ _From the Jesus picture hanging in her room to the fact that mom bowed her head 
 
 The day before Dad passed away, we were praying in Dad’s room when Mom looked up and said, “I see angels\!” <br>
 We asked where and she pointed to Dad’s head and Dad’s feet and she suddenly understood that Dad was going to be with Jesus. <br>
-
-### _God loved Mom so much that He let the woman who loved angels see angels escorting her husband home. Mom had praying hands_.  
+<br>
+_God loved Mom so much that He let the woman who loved angels see angels escorting her husband home. Mom had praying hands_.  
 
 
 ## In Closing
