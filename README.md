@@ -41,8 +41,8 @@ Here are some samples of my work.
 ## Vintage/Retro Technical Documentation (Fun Flashback!)
 
 ### 1. [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
-* A user guide for a palm pilot storage ap (_Do you know what a palm pilot is?_)
-* Demonstrates what technology aps were like before smart phones existed
+* A user guide for a Palm Pilot storage app (_Do you know what a Palm Pilot is?_)
+* Demonstrates what technology apps were like before smart phones existed
 
 ### 2. [Getting Started with InContext Flashsite (PDF)](./)
 * Excerpt from the web analyzer software guides that I prepared in 5 months
