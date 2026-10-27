@@ -1,16 +1,18 @@
-# Hi! I'm Suzanne, a Technical Writer and Creative Storyteller
+# I'm Suzanne | Technical Writer, Storyteller, Queen of Pitch
 
-_Welcome! I write things, and I organize things. In my world, you can’t do one without the other._<br>
-_I create clear, accessible, and practical documentation for technology companies, small businesses, real estate, and nonprofits._<br>
-_Whether it's a software how-to guide or an operations handbook, I make sure the information people need is easy to find and easy to use._<br>
+_I write things, I organize things, and I throw things away._<br>
+_I see what you need to keep and what you need to toss_.<br>
+_I make systems and stories work better_.<br>
+_I can also help you declutter because you really have too much stuff_...<br>
+_I can streamline your stuff and your stories_. <br>
 
 Here are some samples of my work.
 
 ## User Documentation and SOPs
 
-### 1. [Resource Mate User Guide: Reserving a Book from the Church Library](./.md)
-* User guide for a church community, describing how to reserve books from the church website.
-* Demonstrates procedure writing for a non-technical user persona
+### 1. [Resource Mate User Guide: Reserving a Book](./.md)
+* User guide for a church community, describing how to reserve library books from the church website.
+* Demonstrates procedure writing for a non-technical user
 
 ### 2. [SOP: Preparing a Comparative Market Analysis](./.md)
 * Procedure for a real estate administrator supporting an agent. 
@@ -39,7 +41,7 @@ Here are some samples of my work.
 
 ### 1. [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
 * A user guide for a palm pilot ap. (_Do you know what a palm pilot is?_)
-* Demonstrates what technology aps were like before smart phones were invented
+* Demonstrates what technology aps were like before smart phones existed
 
 ### 2. [Getting Started with InContext Flashsite (PDF)](./)
 * Excerpt from the web analyzer software guides that I prepared in 5 months.
@@ -55,8 +57,8 @@ Here are some samples of my work.
 
 ## Creative Writing
 
-I publish regular narrative non-fiction and personal essays on my Substack. 
+I publish regular narrative non-fiction and personal essays on my Substack. I love to tell stories. Let me tell yours!
 
-**[Read my creative work on Substack](https://substack.com)**
+
 
 
