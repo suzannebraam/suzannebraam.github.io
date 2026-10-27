@@ -10,54 +10,52 @@ Here are some samples of my work.
 
 ## User Documentation and SOPs
 
-### 1. [Resource Mate User Guide: Reserving a Book](./.md)
+### [User Guide: Reserving a Book](./.md)
 * User guide for a church community, describing how to reserve library books from the website
 * Demonstrates procedure writing for a non-technical user
 
-### 2. [SOP: Preparing a Comparative Market Analysis](./.md)
+### [SOP: Preparing a Comparative Market Analysis](./.md)
 * Procedure for a real estate administrator supporting an agent
 * Demonstrates audience and scope analysis, active voice, procedure writing
 
 ## API Documentation (Both API Documents were created for Portfolio Purposes only)
 
-### 1. [Feature Guide: Getting Started With PropHub SaaS](./getting-started-guide.md)
+### [Feature Guide: Getting Started With PropHub SaaS](./getting-started-guide.md)
 * Administrator guide for configuring cloud real estate software 
 * Demonstrates REST API documentation, JSON parsing, developer-focused writing
 
-### 2. [API Reference: Real Estate Property Search](./real-estate-api.md)
+### [API Reference: Real Estate Property Search](./real-estate-api.md)
 * Reference guide for a real estate listing data endpoint
 * Demonstrates REST API logic, JSON payloads, query parameters, technical definitions
 
 ## Real Estate Marketing
 
-### 1. [Standard Feature Sheet (PDF)](./documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)](./documents/twopagefeature.pdf)
+### [Standard Feature Sheet (PDF)](./documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)](./documents/twopagefeature.pdf)
 * Feature sheet examples
 * Demonstrates copywriting, marketing, research, layout, and design
 
-### 2. [MLS Property Listing (PDF)](./documents/mls.pdf)
+### [MLS Property Listing (PDF)](./documents/mls.pdf)
 * Multiple Listing Service property listing
 * Demonstrates constraint optimization, creative captioning, and TRESA compliance (Trust in Real Estate Services Act)
   
 ## Vintage/Retro Technical Documentation (Fun Flashback from the Vault!)
 
-### 1. [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
+### [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
 * A user guide for a Palm Pilot storage app (_Do you know what a Palm Pilot is?_)
 * Demonstrates what technology apps were like before smart phones existed
 
-### 2. [Getting Started with InContext Flashsite (PDF)](./)
+### [Getting Started with InContext Flashsite (PDF)](./)
 * Excerpt from the web analyzer suite of software guides that I created in 5 months, back when software came with a printed manual.
 * I won a Society for Technical Communication Award of Merit for these guides in 1997 (_Were you alive then?_)
 
 ## Speech Writing
 
-These are the eulogies that I wrote and delivered for my Father and Mother, who passed away exactly one month apart in 2013.
-These are the hardest speeches I've ever had to write, and the ones I most proud of.
+_Tributes to my parents, who passed away exactly one month apart in 2013._<br>
+_These are the hardest speeches I've ever had to write, and the ones I most proud of_.
 
-### 1. [Tribute to my Father](./mydad.md)
+### [My Dad](./mydad.md)
 
-### 2. [Tribute to my Mother](./mymom.md)
-* Eulogies I delivered for my father and mother, who passed away exactly one month apart in 2013
-* The hardest speeches I've ever had to write, and the ones I am most proud of
+### [My Mom](./mymom.md)
 
 ## Creative Writing
 
