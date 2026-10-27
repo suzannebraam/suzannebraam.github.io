@@ -29,7 +29,7 @@ Here are some samples of my work.
 
 ## Real Estate Marketing and Content Design
 
-### 1. [One Page Feature Sheet (PDF)](./documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)] (./documents/twopagefeature.pdf)
+### 1. [One Page Feature Sheet (PDF)](./documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)](./documents/twopagefeature.pdf)
 * Feature sheet examples
 * Demonstrates copywriting, marketing, research, layout and design
 
