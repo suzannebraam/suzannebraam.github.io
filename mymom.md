@@ -162,7 +162,7 @@ We'd perform in the play, and when we got home, we found that Santa had come\!
 And I was always so amazed that Santa knew that our family was German, and that we opened our presents at night, <br>
 so he made sure to come to our house early while we were at church\!
 
-_And I didn’t clue in that reason why Mom was always late_ <br>
+_And I didn’t clue in that the reason why Mom was always late_ <br>
 _was because she was busy putting all the presents under the tree_...<br>
 
 #### ..._and that Dad was just pretending to be annoyed_. 
