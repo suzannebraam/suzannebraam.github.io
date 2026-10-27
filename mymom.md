@@ -59,7 +59,7 @@ And many times she could modify and improve on how it was made.
 ### When Maggie was little, she had a friend named Lynn who had a cute store-bought vest. 
 
 Mom asked Lynn’s mother if she could borrow the vest.<br>
-Mom took it home, figured out how it was made, and created her own vest that was even nicer than Lynn’s vest. 
+Mom took it home, figured out how it was made, and created her own vest for Maggie that was even nicer than Lynn’s vest. 
 
 ### Just as each holiday had its own special food, mom made special clothes for special occasions, such as Halloween costumes.<br>
 
