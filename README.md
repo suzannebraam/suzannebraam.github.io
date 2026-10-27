@@ -34,11 +34,11 @@ Here are some samples of my work.
 * Feature sheet examples
 * Demonstrates copywriting, marketing, research, layout, and design
 
-### 2. [MLS Property Listing (PDF)] (./)
+### 2. [MLS Property Listing (PDF)](./documents/mls.pdf)
 * Multiple Listing Service property listing
-* Demonstrates constraint optimization, marketing, and TRESA compliance (Trust in Real Estate Services Act)
+* Demonstrates constraint optimization, creative captioning, and TRESA compliance (Trust in Real Estate Services Act)
   
-## Vintage/Retro Technical Documentation (Fun Flashback!)
+## Vintage/Retro Technical Documentation (Fun Flashback from the Vault!)
 
 ### 1. [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
 * A user guide for a Palm Pilot storage app (_Do you know what a Palm Pilot is?_)
