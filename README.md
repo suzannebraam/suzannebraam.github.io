@@ -11,20 +11,21 @@ Here are some samples of my work.
 ## User Documentation and SOPs
 
 ### 1. [Resource Mate User Guide: Reserving a Book](./.md)
-* User guide for a church community, describing how to reserve library books from the church website.
+* User guide for a church community, describing how to reserve library books from the website
 * Demonstrates procedure writing for a non-technical user
 
 ### 2. [SOP: Preparing a Comparative Market Analysis](./.md)
-* Procedure for a real estate administrator supporting an agent. 
+* Procedure for a real estate administrator supporting an agent
 * Demonstrates audience and scope analysis, active voice, procedure writing
 
 ## API Documentation (Both API Documents created for Portfolio Purposes only)
+
 ### 1. [Feature Guide: Getting Started With PropHub SaaS](./getting-started-guide.md)
-* Administrator guide for configuring cloud real estate software. 
+* Administrator guide for configuring cloud real estate software 
 * Demonstrates REST API documentation, JSON parsing, developer-focused writing
 
 ### 2. [API Reference: Real Estate Property Search](./real-estate-api.md)
-* Reference guide for a real estate listing data endpoint.
+* Reference guide for a real estate listing data endpoint
 * Demonstrates REST API logic, JSON payloads, query parameters, technical definitions
 
 ## Real Estate Marketing and Content Design
@@ -40,24 +41,25 @@ Here are some samples of my work.
 ## Vintage/Retro Technical Documentation (Just for Fun!)
 
 ### 1. [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
-* A user guide for a palm pilot ap. (_Do you know what a palm pilot is?_)
+* A user guide for a palm pilot ap (_Do you know what a palm pilot is?_)
 * Demonstrates what technology aps were like before smart phones existed
 
 ### 2. [Getting Started with InContext Flashsite (PDF)](./)
-* Excerpt from the web analyzer software guides that I prepared in 5 months.
-* I won a Society for Technical Communication Award of Merit for these guides in 1997. (_Were you alive then?_)
+* Excerpt from the web analyzer software guides that I prepared in 5 months
+* I won a Society for Technical Communication Award of Merit for these guides in 1997 (_Were you alive then?_)
 
 ## Speech Writing
 
 ### 1. [Eulogy for my Father](./.md)
 
 ### 2. [Eulogy for my Mother](./.md)
-* Tributes to my father and mother, who passed away 1 month apart in 2013
+* Tributes to my father and mother, who passed away one month apart in 2013
 * The hardest speeches I've ever had to write
 
 ## Creative Writing
 
-I publish regular narrative non-fiction and personal essays on my Substack. I love to tell stories. Let me tell yours!
+I publish regular narrative non-fiction and personal essays on my Substack. <br>
+_I love to tell stories. Let me tell yours_!
 
 
 
