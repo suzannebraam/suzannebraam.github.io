@@ -52,9 +52,9 @@ Here are some samples of my work.
 
 ### 1. [Eulogy for my Father](./.md)
 
-### 2. [Eulogy for my Mother](./.md)
-* Tributes to my father and mother, who passed away one month apart in 2013
-* The hardest speeches I've ever had to write
+### 2. [Eulogy for my Mother](./mymom.md)
+* Tributes to my father and mother, who passed away exactly one month apart in 2013
+* The hardest speeches I've ever had to write, and the ones I am most proud of
 
 ## Creative Writing
 
