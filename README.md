@@ -37,7 +37,7 @@ Here are some samples of my work.
   
 ## 🕺 Vintage/Retro Technical Documentation (Just for Fun!)
 
-### 1. [Jack Flash User Guide (PDF)](/documents/jackflash.pdf)
+### 1. [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
 * **What it is:** A user guide for a palm pilot ap. (_Do you know what a palm pilot is?_)
 * **Skills demonstrated:** What technology aps were like before smart phones were invented
 
