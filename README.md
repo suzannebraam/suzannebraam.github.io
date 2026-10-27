@@ -1,4 +1,4 @@
-# Hi! I'm Suzanne, A Technical Writer and Creative Storyteller
+# Hi! I'm Suzanne👋 Technical Writer and Creative Storyteller
 
 _Welcome! I write things, and I organize things. In my world, you can’t do one without the other._<br>
 _I create clear, accessible, and practical documentation for technology companies, small businesses, real estate, and nonprofits._<br>
@@ -6,9 +6,9 @@ _Whether it's a software how-to guide or an operations handbook, I make sure the
 
 Here are some samples of my work.
 
-## User Documentation and SOPs
+## 📖 User Documentation and SOPs
 
-### 1. [User Guide: Reserving a Book from the Church Library](./.md)
+### 1. [Resource Mate User Guide: Reserving a Book from the Church Library](./.md)
 * **What it is:** User documentation for a non-technical community audience.
 * **Skills demonstrated:** defining user personas, information sequencing, procedure writing
 
@@ -16,26 +16,26 @@ Here are some samples of my work.
 * **What it is:** Procedure for a real estate administrator supporting an agent. 
 * **Skills demonstrated:** audience and scope analysis, search optimization, active voice
 
-## API Documentation (Both API Documents created for Portfolio Purposes only)
+## 💻 API Documentation (Both API Documents created for Portfolio Purposes only)
 ### 1. [Feature Guide: Getting Started With PropHub SaaS](./getting-started-guide.md)
-* **What it is:** A administrator guide for configuring cloud real estate software. 
+* **What it is:** Administrator guide for configuring cloud real estate software. 
 * **Skills demonstrated:** REST API documentation, JSON parsing, developer-focused writing.
 
-### 2. [Real Estate Property Search API Reference](./real-estate-api.md)
-* **What it is:** A reference guide for a real estate listing data endpoint.
+### 2. [API Reference: Real Estate Property Search](./real-estate-api.md)
+* **What it is:** Reference guide for a real estate listing data endpoint.
 * **Skills demonstrated:** REST API logic, JSON payloads, query parameters, technical definitions.
 
-## Real Estate Marketing and Content Design
+## 🏡 Real Estate Marketing and Content Design
 
 ### 1. [One Page Feature Sheet (PDF)](./) and [Double-sided Feature Sheet (PDF)] (./)
-* **What it is:** Feature sheet examples
+* **What they are:** Feature sheet examples
 * **Skills demonstrated:** Copy Writing, Research, Layout, Design
 
-### 2. [MLS Property Description (PDF)] (./)
-* **What it is:** A property listing on Multiple Listing Service
+### 2. [MLS Property Listing (PDF)] (./)
+* **What it is:** Multiple Listing Service property listing
 * **Skills demonstrated:** Constraint optimization, TRESA compliance (Trust in Real Estate Services Act)
   
-## Vintage/Retro Technical Documentation (Just for Fun!)
+## 🕺 Vintage/Retro Technical Documentation (Just for Fun!)
 
 ### 1. [Jack Flash User Guide (PDF)](./.md)
 * **What it is:** A user guide for a palm pilot ap. (_Do you know what a palm pilot is?_)
@@ -45,8 +45,18 @@ Here are some samples of my work.
 * **What it is:** Excerpt from the web analyzer software guides that I prepared in 5 months.
 * **Skills demonstrated:** I won a Society for Technical Communication Award of Merit for these guides in 1997. (_Were you alive then?_)
 
-## Speech Writing
+## 🎤 Speech Writing
 
-### 1. [Jack Flash User Guide (PDF)](./.md)
-* **What it is:** Eulogies for my father and mother, who passed away 1 month apart
+### 1. [Speech Writing Study: Eulogy for my Father](./.md)
+
+### 2. [Speech Writing Study: Eulogy for my Mother](./.md)
+* **What they are:** Eulogies for my father and mother, who passed away 1 month apart
 * **Skills demonstrated:** pacing, structure, and intense narrative compression
+
+## ✍️ Creative Writing
+
+Beyond my structured and operational portfolio work, I publish regular narrative non-fiction and personal essays on my Substack. 
+
+👉 **[Read my creative work on Substack](https://substack.com)**
+
+
