@@ -22,3 +22,5 @@ Now they lie at rest,
 But memories hold them close  
 To the ones they served the best. 
 
+**Picture by Irma Sawatzky**<br>
+![Mother's Hands Picture](./images/irmapicture.jpg)
