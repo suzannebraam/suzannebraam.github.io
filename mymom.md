@@ -149,7 +149,7 @@ So, we would get ready and then we’d all get in the car and wait for Mom.<br>
 
 And we’d sit in the car on the driveway and Dad would start to get impatient.<br>
 He’d adjust his seat, fiddle with the heat, and give a big sigh.<br>
-Sometimes, he’d honk the horn, he’d keep checking his watch, and grumble: 
+He’d honk the horn, he’d keep checking his watch, and he'd grumble: 
 
 ### _“Oh, come on Frieda\! What’s taking so long\?_”
 
