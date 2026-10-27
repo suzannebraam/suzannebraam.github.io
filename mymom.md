@@ -1,8 +1,8 @@
 # Tribute to My Mom
 
 Good morning. <br>
-On behalf of our family, we want to thank you for coming to celebrate mom’s life with us and for all the support you showed us during this difficult month. 
-If you were here for my dad’s service, you heard about what a hard worker he was, but what you may not realize is that mom was very busy too. 
+On behalf of our family, we want to thank you for coming to celebrate Mom’s life with us and for all the support you showed us during this difficult month. 
+If you were here for my Dad’s service, you heard about what a hard worker he was, but what you may not realize is that Mom was very busy too. 
 Just like in the poem we read, Mom’s hands were always busy.<br> 
 
 _Mom had working hands, mending hands, and praying hands_. 
@@ -124,12 +124,44 @@ She could barely speak, but she could still pray and she could still sing those 
 Her illness shielded her from the pain of Dad’s death.<br>
 Her illness erased all the worries she carried.<br>
 She became happy, silly, and so much fun to hang out with.<br>
+
 She would greet us all like this: (jazz hands wave) 
 
 She made everyone feel so special.<br>
-She brought joy to others. 
-From the Jesus picture hanging in her room to the fact that mom bowed her head and prayed before meals, people could tell that she loved Jesus and they wanted to be around her. Mom brought the joy of the Lord to others. 
+She brought joy to others.<br>
 
-The day before dad passed away, we were praying in dad’s room when mom looked up and said “I see angels\!” We asked where and she pointed to dad’s head and dad’s feet and she suddenly understood that dad was going to be with Jesus. God loved mom so much that he let the woman who loved angels see angels escorting her husband home. Mom had praying hands.  
-So in closing, since it is so close to Christmas, and since we are here at WK church, I wanted to share our favourite Christmas memory. We grew up in this church, and we were always part of the Christmas program on Christmas Eve. So, we would get ready and then we’d all get in the car and wait for mom. And mom was always about 10 minutes late. And we’d sit in the car on the driveway and Dad would start to get impatient. He’d fiddle with the heat, sometimes he’d honk the horn, he’d keep checking his watch, and grumble “Oh, come on Frieda\! What’s taking so long\!”, and finally mom would get in the car and we’d go to church, and when we got home, we found that Santa had come\! The tree that was empty when we left was now overflowing when we got back\! And we were always so amazed that Santa knew when we were at church and that he came and did our house early because we opened our presents at night. And we didn’t clue in that reason why mom was always late was because she was busy putting all the presents under the tree, and that dad was just pretending to be annoyed.  
-So, although this happened so soon after dad passed away, we can just picture dad in heaven, and after waiting exactly one month, saying “Come on Frieda, what’s taking so long?” 
+From the Jesus picture hanging in her room to the fact that mom bowed her head and prayed before meals, people could tell that she loved Jesus and they wanted to be around her.
+
+### Mom brought the joy of the Lord to others. 
+
+The day before Dad passed away, we were praying in Dad’s room when Mom looked up and said “I see angels\!” <br>
+We asked where and she pointed to Dad’s head and Dad’s feet and she suddenly understood that Dad was going to be with Jesus. <br>
+
+ ### God loved Mom so much that he let the woman who loved angels see angels escorting her husband home.
+_Mom had praying hands_.  
+
+
+## So in closing, since it is so close to Christmas, and since we are here at WK church, I wanted to share our favourite Christmas memory. 
+
+We grew up in this church, and we were always part of the Christmas program on Christmas Eve. <br>
+So, we would get ready and then we’d all get in the car and wait for Mom.<br>
+And Mom was always about 10 minutes late. <br>
+And we’d sit in the car on the driveway and Dad would start to get impatient.<br>
+He’d adjust his seat, fiddle with the heat, give a big sigh.<br>
+sometimes he’d honk the horn, he’d keep checking his watch, and grumble: 
+
+“Oh, come on Frieda\! What’s taking so long\!”
+
+and finally Mom would get in the car and we’d go to church <br>
+
+and when we got home, we found that Santa had come\! 
+
+The tree that was empty when we left was now overflowing when we got back\! 
+
+And we were always so amazed that Santa knew when we were at church and that he came and did our house early because we opened our presents at night. 
+
+And we didn’t clue in that reason why mom was always late was because she was busy putting all the presents under the tree, and that Dad was just pretending to be annoyed. 
+
+So, although this happened so soon after Dad passed away, we can just picture Dad in heaven, and after waiting exactly one month, he looked at his watch and said:
+
+“Come on Frieda, what’s taking so long?” 
