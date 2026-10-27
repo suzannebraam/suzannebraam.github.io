@@ -39,7 +39,7 @@ Birthdays meant chocolate cake.
 On the morning of our birthday, Mom would get up early and wake us up by singing "Happy Birthday" holding a cake and candles.<br>
 We got to blow out the candles and open our present before we went to school, and then we ate chocolate cake for breakfast.
 
-### But the baking we looked forward to most was Mom’s apple pie, which she made for _every occasion_. 
+### But the baking we looked forward to most was Mom’s apple pie, which she made for every occasion. 
 
 Mom was very artistic. And whenever she made a pie, instead of just piercing the steam vents, she would draw a picture in the dough.<br> 
 Mostly it was a branch with flowers, but at Easter it would be a cross, or at Christmas it would be a tree, candle, or wreath. 
@@ -135,7 +135,7 @@ _From the Jesus picture hanging in her room to the fact that mom bowed her head 
 The day before Dad passed away, we were praying in Dad’s room when Mom looked up and said, “I see angels\!” <br>
 We asked where and she pointed to Dad’s head and Dad’s feet and she suddenly understood that Dad was going to be with Jesus. <br>
 
-### God loved Mom so much that He let the woman who loved angels see angels escorting her husband home. Mom had praying hands.  
+#### God loved Mom so much that He let the woman who loved angels see angels escorting her husband home. Mom had praying hands.  
 
 
 ## In Closing
@@ -151,7 +151,7 @@ And we’d sit in the car on the driveway and Dad would start to get impatient.<
 He’d adjust his seat, fiddle with the heat, and give a big sigh.<br>
 He’d honk the horn, he’d keep checking his watch, and he'd grumble: 
 
-### _“Oh, come on Frieda\! What’s taking so long\?_”
+### _“Oh, come on Frieda\! What’s taking so long?_”
 
 Finally Mom would get in the car and we’d go to church <br>
 and when we got home, we found that Santa had come\! 
@@ -171,4 +171,4 @@ we can just picture Dad in heaven, <br>
 and after waiting exactly one month to the day, <br>
 he looked at his watch, sighed, and said:
 
-### _“Oh, come on Frieda\! What’s taking so long\?_” 
+### _“Oh, come on Frieda\! What’s taking so long?_” 
