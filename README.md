@@ -18,7 +18,7 @@ Here are some samples of my work.
 * Procedure for a real estate administrator supporting an agent
 * Demonstrates audience and scope analysis, active voice, procedure writing
 
-## API Documentation (Both API Documents created for Portfolio Purposes only)
+## API Documentation (Both API Documents were created for Portfolio Purposes only)
 
 ### 1. [Feature Guide: Getting Started With PropHub SaaS](./getting-started-guide.md)
 * Administrator guide for configuring cloud real estate software 
