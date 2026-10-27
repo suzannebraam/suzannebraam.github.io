@@ -158,8 +158,8 @@ and when we got home, we found that Santa had come\!
 
 ### The tree that was empty when we left was now overflowing when we got back\! 
 
-And we were always so amazed that Santa knew that we were German, and we opened our presents at night, <br>
-so he made sure to come and do our house early when we were at church!
+And we were always so amazed that Santa knew that we were German, and that we opened our presents at night, <br>
+so he made sure to come to our house early while we were at church!
 
 _And we didn’t clue in that reason why Mom was always late_ <br>
 _was because she was busy putting all the presents under the tree_...<br>
