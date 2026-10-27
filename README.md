@@ -45,10 +45,13 @@ Here are some samples of my work.
 * Demonstrates what technology apps were like before smart phones existed
 
 ### 2. [Getting Started with InContext Flashsite (PDF)](./)
-* Excerpt from the web analyzer software guides that I prepared in 5 months
+* Excerpt from the web analyzer suite of software guides that I created in 5 months, back when software came with a printed manual.
 * I won a Society for Technical Communication Award of Merit for these guides in 1997 (_Were you alive then?_)
 
 ## Speech Writing
+
+These are the eulogies that I wrote and delivered for my Father and Mother, who passed away exactly one month apart in 2013.
+These are the hardest speeches I've ever had to write, and the ones I most proud of.
 
 ### 1. [Tribute to my Father](./mydad.md)
 
