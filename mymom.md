@@ -61,7 +61,7 @@ And many times she could modify and improve on how it was made.
 Mom asked Lynn’s mother if she could borrow the vest.<br>
 Mom took it home, figured out how it was made, and created her own vest for Maggie that was even nicer than Lynn’s vest. 
 
-### Just as each holiday had its own special food, mom made special clothes for special occasions, such as Halloween costumes.<br>
+### Just as each holiday had its own special food, Mom made special clothes for special occasions, such as Halloween costumes.<br>
 
 One year, Mom designed a bear costume out of furry material that was so warm you didn’t have to wear a coat. The ultimate Halloween brag!<br>
 She sewed many matching outfits and Confirmation dresses for Irma and Linda when they were little girls.<br>
