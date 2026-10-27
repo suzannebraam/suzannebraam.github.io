@@ -43,7 +43,7 @@ We got to blow out the candles and open our present before we went to school, an
 
 Mom was very artistic. And whenever she made a pie, instead of just piercing the steam vents, she would draw a picture in the dough.<br> 
 Mostly it was a branch with flowers, but at Easter it would be a cross, or at Christmas it would be a tree, candle, or wreath.<br> 
-<br>
+
 ### _Each pie was a work of art, created with love with her hard-working hands_. 
 
 ## Second, Mom had mending hands. 
@@ -80,7 +80,7 @@ When personalities would clash, Mom was the one who picked up the pieces and sew
 
 Mom was able to adapt the difficult pattern so that it fit her smaller table perfectly.<br>
 In the same way, Mom was the one who was adaptable. <br>
-<br>
+
 ### _She made the adjustments that were needed to accommodate her environment: She had mending hands_.  
 
 ## And finally, Mom had praying hands. 
