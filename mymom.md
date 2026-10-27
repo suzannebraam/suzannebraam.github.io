@@ -69,7 +69,7 @@ She made a prom dress for Betty. <br>
 She made a flower girl dress for Maggie to wear at Irma’s wedding.<br> 
 She made an Easter dress for me.<br>
 
-She let out waistbands, patched knees, darned socks, shortened sleeves and hemmed countless pairs of pants.<br>
+She let out waistbands, patched knees, darned socks, shortened sleeves, and hemmed countless pairs of pants.<br>
   
 ### And just as Mom was a mender of clothes, she was also a mender of relationships. 
 
