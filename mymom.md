@@ -79,11 +79,9 @@ When personalities would clash, Mom was the one who picked up the pieces and sew
 ### Mom once crocheted a tablecloth that had a complicated pattern sized for a table much larger than hers. 
 
 Mom was able to adapt the difficult pattern so that it fit her smaller table perfectly.<br>
-In the same way, Mom was the one who was adaptable. 
+In the same way, Mom was the one who was adaptable. <br>
 
-### She made the adjustments that were needed to accommodate her environment.<br>
-
-#### _She had mending hands_.  
+### _She made the adjustments that were needed to accommodate her environment: She had mending hands_.  
 
 
 ## And finally, Mom had praying hands. 
@@ -102,7 +100,7 @@ She could rescue any plant that was on the verge of death and she could make it 
 My parents used to live across the street from me and when I would go on vacation, she would often look after my hanging pots and flowerbeds when we went away.<br>
 
 Now I have a black thumb, and usually by the time we left for vacation, my hanging pots were just about ready to be thrown out.<br>
-We would return from vacation after one or two week’s time, and my baskets were overflowing with blooms, and they looked _**nicer**_ than they did when I bought them. 
+We would return from vacation after one or two week’s time, and my baskets were overflowing with blooms, and they looked _**nicer**_ than they did when I bought them.<br> 
 
 _In the same way, Mom’s joy and her personality and her love of the Lord would just over flow_.
 
@@ -130,38 +128,47 @@ She would greet us all like this: (jazz hands wave)
 She made everyone feel so special.<br>
 She brought joy to others.<br>
 
-From the Jesus picture hanging in her room to the fact that mom bowed her head and prayed before meals, people could tell that she loved Jesus and they wanted to be around her.
+_From the Jesus picture hanging in her room to the fact that mom bowed her head and prayed before meals, people could tell that she loved Jesus and they wanted to be around her_.
 
 ### Mom brought the joy of the Lord to others. 
 
 The day before Dad passed away, we were praying in Dad’s room when Mom looked up and said “I see angels\!” <br>
 We asked where and she pointed to Dad’s head and Dad’s feet and she suddenly understood that Dad was going to be with Jesus. <br>
 
- ### God loved Mom so much that he let the woman who loved angels see angels escorting her husband home.
-_Mom had praying hands_.  
+ ### _God loved Mom so much that he let the woman who loved angels see angels escorting her husband home. Mom had praying hands_.  
 
 
-## So in closing, since it is so close to Christmas, and since we are here at WK church, I wanted to share our favourite Christmas memory. 
+## In Closing
+
+Since it is so close to Christmas, and since we are here at WK church, I wanted to share our favourite Christmas memory. 
 
 We grew up in this church, and we were always part of the Christmas program on Christmas Eve. <br>
 So, we would get ready and then we’d all get in the car and wait for Mom.<br>
-And Mom was always about 10 minutes late. <br>
+
+### And Mom was always about 10 minutes late.
+
 And we’d sit in the car on the driveway and Dad would start to get impatient.<br>
 He’d adjust his seat, fiddle with the heat, give a big sigh.<br>
-sometimes he’d honk the horn, he’d keep checking his watch, and grumble: 
+Sometimes, he’d honk the horn, he’d keep checking his watch, and grumble: 
 
-“Oh, come on Frieda\! What’s taking so long\!”
+### _“Oh, come on Frieda\! What’s taking so long\?_”
 
-and finally Mom would get in the car and we’d go to church <br>
-
+Finally Mom would get in the car and we’d go to church <br>
 and when we got home, we found that Santa had come\! 
 
-The tree that was empty when we left was now overflowing when we got back\! 
+### The tree that was empty when we left was now overflowing when we got back\! 
 
-And we were always so amazed that Santa knew when we were at church and that he came and did our house early because we opened our presents at night. 
+And we were always so amazed that Santa knew that we were German, and we opened our presents at night, <br>
+so he made sure to come and do our house early when we were at church!
 
-And we didn’t clue in that reason why mom was always late was because she was busy putting all the presents under the tree, and that Dad was just pretending to be annoyed. 
+_And we didn’t clue in that reason why Mom was always late_ <br>
+_was because she was busy putting all the presents under the tree_...<br>
 
-So, although this happened so soon after Dad passed away, we can just picture Dad in heaven, and after waiting exactly one month, he looked at his watch and said:
+#### ..._and that Dad was just pretending to be annoyed_. 
 
-“Come on Frieda, what’s taking so long?” 
+So, although this happened so soon after Dad passed away, <br>
+we can just picture Dad in heaven, <br>
+and after waiting exactly one month to the day, <br>
+he looked at his watch, sighed, and said:
+
+### _“Oh, come on Frieda\! What’s taking so long\?_” 
