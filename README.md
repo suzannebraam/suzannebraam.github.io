@@ -28,7 +28,7 @@ Here are some samples of my work.
 * Reference guide for a real estate listing data endpoint
 * Demonstrates REST API logic, JSON payloads, query parameters, technical definitions
 
-## Real Estate Marketing and Content Design
+## Real Estate Marketing
 
 ### 1. [Standard Feature Sheet (PDF)](./documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)](./documents/twopagefeature.pdf)
 * Feature sheet examples
@@ -58,7 +58,7 @@ Here are some samples of my work.
 
 ## Creative Writing
 
-I publish regular narrative non-fiction and personal essays on my Substack. <br>
+I publish more creative stuff and personal essays on my Substack. <br>
 _I love to tell stories. Let me tell yours_!
 
 
