@@ -3,7 +3,7 @@
 _I write things, I organize things, and I throw things away._<br>
 _I see what you need to keep and what you need to toss_.<br>
 _I make systems and stories work better_.<br>
-_I can also help you declutter because you really have too much stuff_...<br>
+_I can also help you declutter \(because you really have too much stuff\)_...<br>
 _I can streamline your stuff and your stories_. <br>
 
 Here are some samples of my work.
@@ -30,18 +30,18 @@ Here are some samples of my work.
 
 ## Real Estate Marketing and Content Design
 
-### 1. [One Page Feature Sheet (PDF)](./documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)](./documents/twopagefeature.pdf)
+### 1. [Standard Feature Sheet (PDF)](./documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)](./documents/twopagefeature.pdf)
 * Feature sheet examples
-* Demonstrates copywriting, marketing, research, layout and design
+* Demonstrates copywriting, marketing, research, layout, and design
 
 ### 2. [MLS Property Listing (PDF)] (./)
 * Multiple Listing Service property listing
-* Demonstrates constraint optimization, TRESA compliance (Trust in Real Estate Services Act)
+* Demonstrates constraint optimization, marketing, and TRESA compliance (Trust in Real Estate Services Act)
   
-## Vintage/Retro Technical Documentation (Just for Fun!)
+## Vintage/Retro Technical Documentation (Fun Flashback!)
 
 ### 1. [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
-* A user guide for a palm pilot ap (_Do you know what a palm pilot is?_)
+* A user guide for a palm pilot storage ap (_Do you know what a palm pilot is?_)
 * Demonstrates what technology aps were like before smart phones existed
 
 ### 2. [Getting Started with InContext Flashsite (PDF)](./)
@@ -50,10 +50,10 @@ Here are some samples of my work.
 
 ## Speech Writing
 
-### 1. [Eulogy for my Father](./.md)
+### 1. [Tribute to my Father](./mydad.md)
 
-### 2. [Eulogy for my Mother](./mymom.md)
-* Tributes to my father and mother, who passed away exactly one month apart in 2013
+### 2. [Tribute to my Mother](./mymom.md)
+* Eulogies I delivered for my father and mother, who passed away exactly one month apart in 2013
 * The hardest speeches I've ever had to write, and the ones I am most proud of
 
 ## Creative Writing
