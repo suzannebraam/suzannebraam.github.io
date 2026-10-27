@@ -1,4 +1,5 @@
 **Mother’s Hands**
+_by Marian Jones_
 
 Hands that rocked the cradle  
 From the moment of my birth,  
