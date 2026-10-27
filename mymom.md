@@ -120,7 +120,8 @@ Her illness shielded her from the pain of Dad’s death.<br>
 Her illness erased all the worries she carried.<br>
 She became happy, silly, and so much fun to hang out with.<br>
 
-She would greet us all like this: (jazz hands wave) 
+She would greet us all like this: (She would shout "oooooohhhh" and do a jazz hands wave)<br>
+Isn't that a wonderful greeting?<br>
 
 She made everyone feel so special.<br>
 She brought joy to others.<br>
