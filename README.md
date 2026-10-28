@@ -45,11 +45,11 @@ _I won a Society for Technical Communication Award of Merit for these guides in 
 ## 6. Speech Writing
 
 _Tributes to my parents, who passed away exactly one month apart in 2013._<br>
-_The hardest speeches I've ever had to write, and the ones I most proud of_.
+_The hardest speeches I've ever had to write, and the ones I am most proud of_.
 
-### [My Dad](./mydad.md)
+### [Tribute to My Dad](./mydad.md)
 
-### [My Mom](./mymom.md)
+### [Tribute to My Mom](./mymom.md)
 
 ## 7. Creative Writing
 
