@@ -53,9 +53,9 @@ _The hardest speeches I've ever had to write, and the ones I most proud of_.
 
 ## 7. Creative Writing
 
-_I publish more creative stuff and personal essays on my Substack. <br>
+_I publish more creative stuff and personal essays on my Substack_. 
 
-## I love to tell stories. Let me tell yours!
+# _I love to tell stories. Let me tell yours\!_
 
 
 
