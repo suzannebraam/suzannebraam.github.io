@@ -1,4 +1,4 @@
-# I'm Suzanne | Technical Writer, Storyteller, Queen of Pitch
+# Technical Writer, Storyteller, Queen of Pitch
 
 _I write things, I organize things, and I throw things away._<br>
 _I see what you need to keep and what you need to toss_.<br>
@@ -16,7 +16,7 @@ _User guide for a church community that demonstrates procedure writing for a non
 ### [SOP: Preparing a Comparative Market Analysis](./.md)
 _Standard operating procedures for a real estate admin supporting an agent_.
 
-## 2. API Documentation (Both API Documents were created for Portfolio Purposes only)
+## 2. API Documentation (Created for Portfolio Purposes only)
 
 ### [Getting Started With PropHub SaaS](./getting-started-guide.md)
 _Administrator guide for configuring cloud real estate software that demonstrates REST API documentation and developer-focused writing_.
@@ -35,8 +35,8 @@ _Property listing that demonstrates marketing and TRESA compliance_
 ## 4. Vintage/Retro Technical Documentation (Fun Flashback from the Vault!)
 
 ### [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
-_A user guide for a Palm Pilot storage app that shows what technology apps were like before smart phones existed.<br>
-_(Do you know what a Palm Pilot is?)_
+_A user guide for a Palm Pilot app that shows what apps were like before smart phones existed.<br>
+(Do you know what a Palm Pilot is?)_
 
 ### [Getting Started with InContext Flashsite (PDF)](./)
 _Excerpt from the web analyzer suite of software guides that I created in 5 months, back when software came with a printed manual_.<br>
