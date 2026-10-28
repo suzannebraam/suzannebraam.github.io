@@ -10,7 +10,7 @@ Here are some samples of my work.
 
 ## 1. User Documentation and SOPs
 
-### [User Guide: Reserving a Book](./.md)
+### [User Guide: Reserving a Book in Resourcemate](./.md)
 _User guide for a church community that demonstrates procedure writing for a non-technical user_.
 
 ### [SOP: Preparing a Comparative Market Analysis](./.md)
