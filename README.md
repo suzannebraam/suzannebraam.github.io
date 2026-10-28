@@ -27,7 +27,7 @@ _Reference guide for a real estate listing data endpoint that demonstrates REST 
 ## 3. Real Estate Marketing
 
 ### [Standard Feature Sheet (PDF)](./documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)](./documents/twopagefeature.pdf)
-_Feature sheet examples that show copywriting, research, layout, and design_.
+_Feature sheet examples that show descriptive copywriting, research, layout, and design_.
 
 ### [MLS Property Listing (PDF)](./documents/mls.pdf)
 _Property listing that demonstrates marketing and TRESA compliance_
