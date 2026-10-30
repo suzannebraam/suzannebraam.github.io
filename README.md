@@ -42,7 +42,7 @@ _A user guide for a Palm Pilot app that shows what apps were like before smart p
 _Excerpt from the web analyzer suite of software guides that I created in 5 months, back when software came with a printed manual_.<br>
 _I won a Society for Technical Communication Award of Merit for these guides in 1997_. (_Were you alive then?_)
 
-## 6. Speech Writing
+## 5. Speech Writing
 
 _Tributes to my parents, who passed away exactly one month apart in 2013._<br>
 _The hardest speeches I've ever had to write, and the ones I am most proud of_.
@@ -51,7 +51,7 @@ _The hardest speeches I've ever had to write, and the ones I am most proud of_.
 
 ### [Tribute to My Mom](./mymom.md)
 
-## 7. Creative Writing
+## 6. Creative Writing
 
 _I publish more creative stuff and personal essays on my Substack_. 
 
