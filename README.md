@@ -16,15 +16,7 @@ _User guide for a church community that demonstrates procedure writing for a non
 ### [SOP: Preparing a Comparative Market Analysis](./.md)
 _Standard operating procedures for a real estate admin supporting an agent_.
 
-## 2. API Documentation (Created for Portfolio Purposes only)
-
-### [Getting Started With PropHub SaaS](./getting-started-guide.md)
-_Administrator guide for configuring cloud real estate software that demonstrates REST API documentation and developer-focused writing_.
-
-### [API Reference: Real Estate Property Search](./real-estate-api.md)
-_Reference guide for a real estate listing data endpoint that demonstrates REST API logic, JSON payloads, and query parameters_.
-
-## 3. Real Estate Marketing
+## 2. Real Estate Marketing
 
 ### [Standard Feature Sheet (PDF)](./documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)](./documents/twopagefeature.pdf)
 _Feature sheet examples that show descriptive copywriting, research, layout, and design_.
@@ -32,7 +24,7 @@ _Feature sheet examples that show descriptive copywriting, research, layout, and
 ### [MLS Property Listing (PDF)](./documents/mls.pdf)
 _Property listing that demonstrates marketing and TRESA compliance_
   
-## 4. Vintage/Retro Technical Documentation (Fun Flashback from the Vault!)
+## 3. Vintage/Retro Technical Documentation (Fun Flashback from the Vault!)
 
 ### [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
 _A user guide for a Palm Pilot app that shows what apps were like before smart phones existed.<br>
@@ -42,7 +34,7 @@ _A user guide for a Palm Pilot app that shows what apps were like before smart p
 _Excerpt from the web analyzer suite of software guides that I created in 5 months, back when software came with a printed manual_.<br>
 _I won a Society for Technical Communication Award of Merit for these guides in 1997_. (_Were you alive then?_)
 
-## 6. Speech Writing
+## 4. Speech Writing
 
 _Tributes to my parents, who passed away exactly one month apart in 2013._<br>
 _The hardest speeches I've ever had to write, and the ones I am most proud of_.
@@ -51,7 +43,7 @@ _The hardest speeches I've ever had to write, and the ones I am most proud of_.
 
 ### [Tribute to My Mom](./mymom.md)
 
-## 7. Creative Writing
+## 5. Creative Writing
 
 _I publish more creative stuff and personal essays on my Substack_. 
 
