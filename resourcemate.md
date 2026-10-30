@@ -2,4 +2,8 @@
 
 Did you know that you can search the church library catalogue online from the church website?
 
-## Navigate to the Church Website
+## 1. Navigate to the Church Website
+
+Type www.lrc.church
+
+## 2. Choose "Library" from the Resources menu.
