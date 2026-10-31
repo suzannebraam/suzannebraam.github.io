@@ -24,10 +24,9 @@ Did you know that the library catalogue is available online?<br>
  <img src="./images/Searchbar.png" alt="Searchbar" width="573">
 
 - Enter the book title in the search bar and press <kbd>Return</kbd> or click 🔍.
-- 
-- You can search by Author, Title, Subject or Keyword by selecting the appropriate choice from the list.
-- A Keyword search will look for the text anywhere in the record (including the title, abstract, author name, or full text)
-- 
-- 
-4.  Add your book to the book bin.
+- You can search by author, title, subject or keyword by selecting the appropriate choice from the list.
+- A keyword search will look for the text anywhere in the record (including the title, abstract, author name, or full text).
+
+### 5. Select your book.
+
 5.  Mail your selection to library@lrc.church 
