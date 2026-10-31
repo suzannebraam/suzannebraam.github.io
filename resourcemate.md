@@ -14,8 +14,8 @@ Did you know that the library catalogue is available online?<br>
 
 ### 3.  The library catalogue opens.
 
-*   We have over 3000 books in our collection
-*   The newest titles appear at the bottom of the screen
+*   We have over 3000 books in our collection.
+*   The newest titles appear at the bottom of the screen.
 
  <img src="./images/Catalogue.png" alt="Library Catalogue" width="573">
 
@@ -30,8 +30,14 @@ Did you know that the library catalogue is available online?<br>
 *   Enter text in the search bar and press <kbd>Return</kbd> or click 🔍.
 
 
-### 5. Select a book book from the list.
+### 5. Click a book on the list to select it.
 
  <img src="./images/Results.png" alt="Results of search" width="573">
 
-5.  Mail your selection to library@lrc.church 
+*   If the list is empty, click the X in the search bar and type your text again.
+  
+ <img src="./images/Noresult.png" alt="Empty list" width="573">
+  
+   
+   
+   5.  Mail your selection to library@lrc.church 
