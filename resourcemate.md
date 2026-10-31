@@ -12,21 +12,26 @@ Did you know that the library catalogue is available online?<br>
 <img src="./images/Chooselibrary.png" alt="Choose Library" width="573">
    
 
-### 3.  The library catalogue appears:
+### 3.  The library catalogue opens.
+
+*   We have over 3000 books in our collection
+*   The newest titles appear at the bottom of the screen
 
  <img src="./images/Catalogue.png" alt="Library Catalogue" width="573">
 
- - We have over 3000 books in our collection
- - The newest titles appear at the bottom of the screen
   
-### 4.  Search for and select a book.<br>
+### 4.  Search for a book.
+
+*   You can search by author, title, subject or keyword by selecting the appropriate choice from the list.
+*   A keyword search will look for the text anywhere in the record (including the title, abstract, author name, or full text).
 
  <img src="./images/Searchbar.png" alt="Searchbar" width="573">
 
-- Enter the book title in the search bar and press <kbd>Return</kbd> or click 🔍.
-- You can search by author, title, subject or keyword by selecting the appropriate choice from the list.
-- A keyword search will look for the text anywhere in the record (including the title, abstract, author name, or full text).
+*   Enter text in the search bar and press <kbd>Return</kbd> or click 🔍.
 
-### 5. Select your book.
+
+### 5. Select a book book from the list.
+
+ <img src="./images/Results.png" alt="Results of search" width="573">
 
 5.  Mail your selection to library@lrc.church 
