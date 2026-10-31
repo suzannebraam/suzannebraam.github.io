@@ -2,7 +2,8 @@
 
 Did you know that the library catalogue is available online?
 1.  Navigate to the church website: www.lrc.church
-2.  Choose "Library" from the Resources menu.
+   ![
+3.  Choose "Library" from the Resources menu.
    !
 4.  Search for and select a book.
 5.  Add your book to the book bin.
