@@ -1,8 +1,8 @@
 # Reserving a Library Book from the Church Website
 
 Did you know that the library catalogue is available online?
-1.  Navigate to the church website: www.lrc.church
-   ![lrc church website](./images/
+1.  Navigate to the church website: www.lrc.church<br>
+   ![lrc church website](./images/homepage.png)
 2.  Choose "Library" from the Resources menu.
    !
 4.  Search for and select a book.
