@@ -2,16 +2,18 @@
 
 Did you know that the library catalogue is available online?
 ### 1.  Navigate to the church website.<br>
- <br>
- 
-   ![LRC Church Website](./images/homepage.png)
+   
+   <img src="./images/homepage.png" alt="LRC Church Website" width="573">
    
 ### 2.  Choose "Library" from the Resources menu.<br>
-<br>
 
-   ![Choose Library](./images/Chooselibrary.png)
+   <img src="./images/Chooselibrary.png" alt="Choose Library" width="573">
    
-3.  Search for and select a book.<br>
+3.  The library catalogue appears:
+
+
+
+Search for and select a book.<br>
 
   ![Choose Library](./images/Chooselibrary.png)
    You can search by Title, Author, or Keyword.
