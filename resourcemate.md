@@ -62,7 +62,5 @@ _Reserve a book online and it will be available for you to check out the followi
 <img src="./images/Sendemail.png" alt="Open Book Bin" width="573">
 
 *   The library volunteer will get your book ready on the following Sunday.
-
-### 10.  Come to the library after the service to pick up your book.
-
-*   Enjoy your book for 3 weeks!
+*   Come to the library after the service to pick up your book.
+*   Enjoy your book for 3 weeks!   
