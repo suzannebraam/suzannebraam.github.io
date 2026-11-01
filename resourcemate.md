@@ -52,14 +52,17 @@ _Reserve a book online and it will be available for you to check out the followi
 <img src="./images/Bookbin.png" alt="Book Bin" width="573">
 
  
- ### 8.  Click the envelope icon to email your book bin.
+ ### 8. Click the envelope icon to email your book bin.
  
 <img src="./images/Email.png" alt="Open Book Bin" width="573">
 
 
-### 9.   Email your selection to library@lrc.church
+### 9.  Email your selection to library@lrc.church
 
 <img src="./images/Sendemail.png" alt="Open Book Bin" width="573">
 
 *   The library volunteer will get your book ready on the following Sunday.
-*   Come to the library after the service to pick up your book.
+
+### 10.  Come to the library after the service to pick up your book.
+
+*   Enjoy your book for 3 weeks!
