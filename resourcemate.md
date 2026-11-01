@@ -43,7 +43,7 @@ _Reserve a book online and it will be available for you to check out the followi
 *   It does not indicate whether or not the book has been checked out.
 
    
-### 6.  Click the "Add to Book Bin" button to place the book in your Book Bin.
+### 6.  Click <kbd>Add to Book Bin</kbd>.
 
 <kbd><img src="./images/Addbookbin.png" alt="Add to Book Bin" width="573"></kbd>
 
@@ -51,11 +51,11 @@ _Reserve a book online and it will be available for you to check out the followi
 *   You can add a maximum of 10 books.
 
 
-### 7.  Once you have finished adding books to the bin, click the Book Bin to open it.
+### 7.  Once you have finished adding books to the bin, click the Book Bin icon to open it.
 
 <kbd><img src="./images/Bookbin.png" alt="Book Bin" width="573"></kbd>
 
-### 8.   The book bin opens.
+### 8.   The book bin list opens.
 
 <kbd><img src="./images/Email.png" alt="Open Book Bin" width="573"></kbd>
 
