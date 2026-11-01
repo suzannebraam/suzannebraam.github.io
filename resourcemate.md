@@ -5,7 +5,7 @@ _Reserve a book online and it will be available for you to check out the followi
 
 ### 1.  Navigate to the church website (www.lrc.church).
    
-<img src="./images/homepage.png" alt="LRC Church Website" width="573">
+<kbd><img src="./images/homepage.png" alt="LRC Church Website" width="573"></kbd>
    
 
 ### 2.  Choose "Library" from the _Resources_ menu.
