@@ -43,7 +43,7 @@ _Reserve a book online and it will be available for you to check out the followi
 *   It does not indicate whether or not the book has been checked out.
 
    
-### 6.  Click <kbd>Add to Book Bin</kbd>.
+### 6.  Click the _Add to Book Bin_ button.
 
 <kbd><img src="./images/Addbookbin.png" alt="Add to Book Bin" width="573"></kbd>
 
@@ -60,7 +60,7 @@ _Reserve a book online and it will be available for you to check out the followi
 <kbd><img src="./images/Email.png" alt="Open Book Bin" width="573"></kbd>
 
  
-### 9. Click the envelope icon to email your book request.
+### 9. Click the Envelope icon to email your book request.
  
 <kbd><img src="./images/Createemail.png" alt="Create Email" width="573"></kbd>
 
