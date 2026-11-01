@@ -3,7 +3,7 @@
 _Did you know that the library catalogue is available for you to search online from the church website?_   
 _Reserve a book online and it will be available for you to check out the following Sunday_.
 
-### 1.  Navigate to the church website.
+### 1.  Navigate to the church website (www.lrc.church).
    
 <img src="./images/homepage.png" alt="LRC Church Website" width="573">
    
