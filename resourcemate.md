@@ -28,9 +28,9 @@ _Reserve a book online and it will be available for you to check out the followi
 
 <img src="./images/Searchbar.png" alt="Searchbar" width="573">
 
-*   Enter text in the search bar and press <kbd>Return</kbd> or click 🔍.
+*   Enter your search criteria and press <kbd>Return</kbd> or click 🔍.
 *   A list of books that match your query appears.
-*   If the list is empty, click the X in the search bar and type your text again.
+*   If the list is empty, click <kbd>X</kbd> in the search bar and type your text again.
   
 <img src="./images/Noresult.png" alt="Empty list" width="573">
 
@@ -38,6 +38,8 @@ _Reserve a book online and it will be available for you to check out the followi
 ### 5.  Click a book on the list to select it.
 
 <img src="./images/Results.png" alt="Results of search" width="573">
+
+*   This won't show you if the book is checked out. It only shows if we have it in our collection. 
 
    
 ### 6.  Click the "Add to Book Bin" button to place the book in your Book Bin.
@@ -65,6 +67,6 @@ _Reserve a book online and it will be available for you to check out the followi
 
 <img src="./images/Sendemail.png" alt="Open Book Bin" width="573">
 
-*   The library volunteer will get your book ready on the following Sunday.
+*   A library volunteer will get your book ready on the following Sunday.
 *   Come to the library after the service to pick up your book.
 *   Enjoy your book for 3 weeks!   
