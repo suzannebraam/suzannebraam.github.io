@@ -46,12 +46,20 @@ _Reserve a book online and it will be available for you to check out the followi
 
 *   The Book Bin icon at the top of the screen indicates the number of books in your bin
 
- <img src="./images/Bookbin.png" alt="Book Bin" width="573">
 
 ### 7.  Once you have finished adding books to the bin, click the Book Bin to open it.
 
- <img src="./images/Bookbin.png" alt="Book Bin" width="573">
+<img src="./images/Bookbin.png" alt="Book Bin" width="573">
+
  
  ### 8.  Click the envelope icon to email your book bin.
  
- Mail your selection to library@lrc.church 
+<img src="./images/Email.png" alt="Open Book Bin" width="573">
+
+
+### 9.   Email your selection to library@lrc.church
+
+<img src="./images/Sendemail.png" alt="Open Book Bin" width="573">
+
+*   The library volunteer will get your book ready on the following Sunday.
+*   Come to the library after the service to pick up your book.
