@@ -23,8 +23,8 @@ _Reserve a book online and it will be available for you to check out the followi
   
 ### 4.  Search for a book.
 
-*   You can search by author, title, subject or keyword by selecting the appropriate choice from the list.
-*   A keyword search will look for the text anywhere in the record (including the title, abstract, author name, or full text).
+*   You can search by author, title, subject, or keyword by selecting the appropriate choice from the list.
+*   A keyword search will look for the text anywhere in the record (including the title, subject, author name, or full text description).
 
 <img src="./images/Searchbar.png" alt="Searchbar" width="573">
 
