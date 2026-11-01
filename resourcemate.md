@@ -10,7 +10,7 @@ _Reserve a book online and it will be available for you to check out the followi
 
 ### 2.  Choose "Library" from the _Resources_ menu.
 
-<img src="./images/Chooselibrary.png" alt="Choose Library" width="573">
+<kbd><img src="./images/Chooselibrary.png" alt="Choose Library" width="573"></kbd>
    
 
 ### 3.  The library catalogue opens.
@@ -18,7 +18,7 @@ _Reserve a book online and it will be available for you to check out the followi
 *   We have over 3000 books in our collection.
 *   The newest titles appear at the bottom of the screen.
 
-<img src="./images/Catalogue.png" alt="Library Catalogue" width="573">
+<kbd><img src="./images/Catalogue.png" alt="Library Catalogue" width="573"></kbd>
 
   
 ### 4.  Search for a book.
@@ -26,18 +26,18 @@ _Reserve a book online and it will be available for you to check out the followi
 *   You can search by author, title, subject, or keyword by selecting the appropriate choice from the list.
 *   A keyword search will look for the text anywhere in the record (including the title, subject, author name, or full text description).
 
-<img src="./images/Searchbar.png" alt="Searchbar" width="573">
+<kbd><img src="./images/Searchbar.png" alt="Searchbar" width="573"></kbd>
 
 *   Enter your search criteria and press <kbd>Return</kbd> or click 🔍.
 *   A list of books that match your query appears.
 *   If the list is empty, click <kbd>X</kbd> in the search bar and type your text again.
   
-<img src="./images/Noresult.png" alt="Empty list" width="573">
+<kbd><img src="./images/Noresult.png" alt="Empty list" width="573"></kbd>
 
 
 ### 5.  Click a book on the list to select it.
 
-<img src="./images/Results.png" alt="Results of search" width="573">
+<kbd><img src="./images/Results.png" alt="Results of search" width="573"></kbd>
 
 *   The list shows that we have a book in our collection.
 *   It does not indicate whether or not the book has been checked out.
@@ -45,7 +45,7 @@ _Reserve a book online and it will be available for you to check out the followi
    
 ### 6.  Click the "Add to Book Bin" button to place the book in your Book Bin.
 
-<img src="./images/Addbookbin.png" alt="Add to Book Bin" width="573">
+<kbd><img src="./images/Addbookbin.png" alt="Add to Book Bin" width="573"></kbd>
 
 *   The Book Bin icon at the top of the screen indicates the number of books in your bin.
 *   You can add a maximum of 10 books.
@@ -53,21 +53,21 @@ _Reserve a book online and it will be available for you to check out the followi
 
 ### 7.  Once you have finished adding books to the bin, click the Book Bin to open it.
 
-<img src="./images/Bookbin.png" alt="Book Bin" width="573">
+<kbd><img src="./images/Bookbin.png" alt="Book Bin" width="573"></kbd>
 
 ### 8.   The book bin opens.
 
-<img src="./images/Email.png" alt="Open Book Bin" width="573">
+<kbd><img src="./images/Email.png" alt="Open Book Bin" width="573"></kbd>
 
  
 ### 9. Click the envelope icon to email your book request.
  
-<img src="./images/Createemail.png" alt="Create Email" width="573">
+<kbd><img src="./images/Createemail.png" alt="Create Email" width="573"></kbd>
 
 
 ### 10.  Email your selection to library@lrc.church
 
-<img src="./images/Sendemail.png" alt="Open Book Bin" width="573">
+<kbd><img src="./images/Sendemail.png" alt="Open Book Bin" width="573"></kbd>
 
 *   A library volunteer will get your book ready on the following Sunday.
 *   Come to the library after the service to pick up your book.
