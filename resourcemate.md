@@ -29,22 +29,23 @@ _Reserve a book online and it will be available for you to check out the followi
 <img src="./images/Searchbar.png" alt="Searchbar" width="573">
 
 *   Enter text in the search bar and press <kbd>Return</kbd> or click 🔍.
+*   A list of books that match your query appears.
+*   If the list is empty, click the X in the search bar and type your text again.
+  
+<img src="./images/Noresult.png" alt="Empty list" width="573">
 
 
 ### 5.  Click a book on the list to select it.
 
 <img src="./images/Results.png" alt="Results of search" width="573">
 
-*   If the list is empty, click the X in the search bar and type your text again.
-  
-<img src="./images/Noresult.png" alt="Empty list" width="573">
-  
    
 ### 6.  Click the "Add to Book Bin" button to place the book in your Book Bin.
 
 <img src="./images/Addbookbin.png" alt="Add to Book Bin" width="573">
 
-*   The Book Bin icon at the top of the screen indicates the number of books in your bin
+*   The Book Bin icon at the top of the screen indicates the number of books in your bin.
+*   You can add a maximum of 10 books to your bin.
 
 
 ### 7.  Once you have finished adding books to the bin, click the Book Bin to open it.
@@ -55,6 +56,9 @@ _Reserve a book online and it will be available for you to check out the followi
 ### 8. Click the envelope icon to email your book bin.
  
 <img src="./images/Email.png" alt="Open Book Bin" width="573">
+
+<img src="./images/Createemail.png" alt="Create Email" width="573">
+
 
 
 ### 9.  Email your selection to library@lrc.church
