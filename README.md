@@ -10,8 +10,8 @@ Here are some samples of my work.
 
 ## 1. User Documentation and SOPs
 
-### [User Guide: Reserving a Book in Resourcemate](./resourcemate.md)
-_User guide for a church community that demonstrates procedure writing for a non-technical user_.
+### [Resourcemate User Guide: Reserving a Library Book from the Church Website](./resourcemate.md)
+_User guide published in the church community newsletter that demonstrates procedure writing for a non-technical user_.
 
 ### [SOP: Preparing a Comparative Market Analysis](./.md)
 _Standard operating procedures for a real estate admin supporting an agent_.
@@ -27,7 +27,7 @@ _Property listing that demonstrates marketing and TRESA compliance_
 ## 3. Vintage/Retro Technical Documentation (Fun Flashback from the Vault!)
 
 ### [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
-_A user guide for a Palm Pilot app that shows what apps were like before smart phones existed.<br>
+_User guide for a Palm Pilot app that shows what apps were like before smart phones existed.<br>
 (Do you know what a Palm Pilot is?)_
 
 ### [Getting Started with InContext Flashsite (PDF)](./)
