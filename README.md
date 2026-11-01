@@ -1,4 +1,4 @@
-# Technical Writer, Storyteller, Queen of Pitch
+# Technical Writer, Storyteller, and Queen of Pitch
 
 _I write things, I organize things, and I throw things away._<br>
 _I see what you need to keep and what you need to toss_.<br>
