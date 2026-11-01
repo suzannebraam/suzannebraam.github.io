@@ -11,12 +11,12 @@ Here are some samples of my work.
 ## 1. User Documentation and SOPs
 
 ### [Resourcemate User Guide: Reserving a Library Book from the Church Website](./resourcemate.md)
-_User guide published in the church community newsletter that demonstrates procedure writing for a non-technical user_.
+_Guide published in a church community newsletter that demonstrates procedure writing for a non-technical user_.
 
 ### [SOP: Preparing a Comparative Market Analysis](./.md)
 _Standard operating procedures for a real estate admin supporting an agent_.
 
-## 2. Real Estate Marketing
+## 2. Real Estate Documents
 
 ### [Standard Feature Sheet (PDF)](./documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)](./documents/twopagefeature.pdf)
 _Feature sheet examples that show descriptive copywriting, research, layout, and design_.
@@ -24,7 +24,7 @@ _Feature sheet examples that show descriptive copywriting, research, layout, and
 ### [MLS Property Listing (PDF)](./documents/mls.pdf)
 _Property listing that demonstrates marketing and TRESA compliance_
   
-## 3. Vintage/Retro Technical Documentation (Fun Flashback from the Vault!)
+## 3. Vintage/Retro Software User Manuals (Fun Flashback from the Vault!)
 
 ### [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
 _User guide for a Palm Pilot app that shows what apps were like before smart phones existed.<br>
