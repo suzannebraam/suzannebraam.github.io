@@ -8,7 +8,7 @@ _Reserve a book online and it will be available for you to check out the followi
 <img src="./images/homepage.png" alt="LRC Church Website" width="573">
    
 
-### 2.  Choose "Library" from the Resources menu.
+### 2.  Choose _Library_ from the **Resources** menu.
 
 <img src="./images/Chooselibrary.png" alt="Choose Library" width="573">
    
