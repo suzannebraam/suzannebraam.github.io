@@ -65,7 +65,7 @@ _Reserve a book online and it will be available for you to check out the followi
 <kbd><img src="./images/Createemail.png" alt="Create Email" width="573"></kbd>
 
 
-### 10.  Email your selection to library@lrc.church
+### 10.  Email your selection to _library@lrc.church_.
 
 <kbd><img src="./images/Sendemail.png" alt="Open Book Bin" width="573"></kbd>
 
