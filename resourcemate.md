@@ -2,16 +2,20 @@
 
 _Did you know that the library catalogue is available for you to search online from the church website?_   
 _Reserve a book online and it will be available for you to check out the following Sunday_.
+<br>
+<br>
 
 ### 1.  Navigate to the church website (www.lrc.church).
    
 <kbd><img src="./images/homepage.png" alt="LRC Church Website" width="573"></kbd>
-   
+<br>
+<br>  
 
 ### 2.  Choose "Library" from the _Resources_ menu.
 
 <kbd><img src="./images/Chooselibrary.png" alt="Choose Library" width="573"></kbd>
-   
+<br>
+<br>   
 
 ### 3.  The library catalogue opens.
 
@@ -19,7 +23,8 @@ _Reserve a book online and it will be available for you to check out the followi
 *   The newest titles appear at the bottom of the screen.
 
 <kbd><img src="./images/Catalogue.png" alt="Library Catalogue" width="573"></kbd>
-
+<br>
+<br>
   
 ### 4.  Search for a book.
 
@@ -33,7 +38,8 @@ _Reserve a book online and it will be available for you to check out the followi
 *   If the list is empty, click <kbd>X</kbd> in the search bar and type your text again.
   
 <kbd><img src="./images/Noresult.png" alt="Empty list" width="573"></kbd>
-
+<br>
+<br>
 
 ### 5.  Click a book on the list to select it.
 
@@ -41,8 +47,8 @@ _Reserve a book online and it will be available for you to check out the followi
 
 *   The list shows that we have a book in our collection.
 *   It does not indicate whether or not the book has been checked out.
+  
 
-   
 ### 6.  Click the _Add to Book Bin_ button.
 
 <kbd><img src="./images/Addbookbin.png" alt="Add to Book Bin" width="573"></kbd>
@@ -54,16 +60,20 @@ _Reserve a book online and it will be available for you to check out the followi
 ### 7.  Once you have finished adding books to the bin, click the Book Bin icon to open it.
 
 <kbd><img src="./images/Bookbin.png" alt="Book Bin" width="573"></kbd>
+<br>
+<br>
 
 ### 8.   The book bin list opens.
 
 <kbd><img src="./images/Email.png" alt="Open Book Bin" width="573"></kbd>
-
+<br>
+<br>
  
 ### 9. Click the Envelope icon to email your book request.
  
 <kbd><img src="./images/Createemail.png" alt="Create Email" width="573"></kbd>
-
+<br>
+<br>
 
 ### 10.  Email your selection to _library@lrc.church_.
 
