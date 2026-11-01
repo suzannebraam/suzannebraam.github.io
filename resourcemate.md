@@ -39,7 +39,7 @@ _Reserve a book online and it will be available for you to check out the followi
 
 <img src="./images/Results.png" alt="Results of search" width="573">
 
-*   This won't show you if the book is checked out. It only shows if we have it in our collection. 
+*   This only shows if we have the book in our collection. It doesn't indicate whether or not the book has been checked out.
 
    
 ### 6.  Click the "Add to Book Bin" button to place the book in your Book Bin.
