@@ -8,7 +8,7 @@ _Reserve a book online and it will be available for you to check out the followi
 <img src="./images/homepage.png" alt="LRC Church Website" width="573">
    
 
-### 2.  Choose _Library_ from the **Resources** menu.
+### 2.  Choose "Library" from the _Resources_ menu.
 
 <img src="./images/Chooselibrary.png" alt="Choose Library" width="573">
    
@@ -39,7 +39,8 @@ _Reserve a book online and it will be available for you to check out the followi
 
 <img src="./images/Results.png" alt="Results of search" width="573">
 
-*   This only shows if we have the book in our collection. It doesn't indicate whether or not the book has been checked out.
+*   The list shows that we have a book in our collection.
+*   It does not indicate whether or not the book has been checked out.
 
    
 ### 6.  Click the "Add to Book Bin" button to place the book in your Book Bin.
@@ -47,23 +48,24 @@ _Reserve a book online and it will be available for you to check out the followi
 <img src="./images/Addbookbin.png" alt="Add to Book Bin" width="573">
 
 *   The Book Bin icon at the top of the screen indicates the number of books in your bin.
-*   You can add a maximum of 10 books to your bin.
+*   You can add a maximum of 10 books.
 
 
 ### 7.  Once you have finished adding books to the bin, click the Book Bin to open it.
 
 <img src="./images/Bookbin.png" alt="Book Bin" width="573">
 
- 
-### 8. Click the envelope icon to email your book bin.
- 
+### 8.   The book bin opens.
+
 <img src="./images/Email.png" alt="Open Book Bin" width="573">
 
+ 
+### 9. Click the envelope icon to email your book request.
+ 
 <img src="./images/Createemail.png" alt="Create Email" width="573">
 
 
-
-### 9.  Email your selection to library@lrc.church
+### 10.  Email your selection to library@lrc.church
 
 <img src="./images/Sendemail.png" alt="Open Book Bin" width="573">
 
