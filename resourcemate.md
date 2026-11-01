@@ -52,7 +52,7 @@ _Reserve a book online and it will be available for you to check out the followi
 <img src="./images/Bookbin.png" alt="Book Bin" width="573">
 
  
- ### 8. Click the envelope icon to email your book bin.
+### 8. Click the envelope icon to email your book bin.
  
 <img src="./images/Email.png" alt="Open Book Bin" width="573">
 
