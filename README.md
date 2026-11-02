@@ -10,7 +10,7 @@ Here are some samples of my work.
 
 ## 1. User Documentation and SOPs
 
-### [Resourcemate User Guide: Reserving a Library Book from the Church Website](./resourcemate.md)
+### [Resourcemate User Guide: Reserving a Library Book from the Church Website](resourcemate.html)
 _Guide published in a church community newsletter that demonstrates procedure writing for a non-technical user_.
 
 ### [SOP: Preparing a Comparative Market Analysis](./.md)
@@ -41,7 +41,7 @@ _The hardest speeches I've ever had to write, and the ones I am most proud of_.
 
 ### [Tribute to My Dad](./mydad.md)
 
-### [Tribute to My Mom](./mymom.md)
+### [Tribute to My Mom](mymom.html)
 
 ## 5. Creative Writing
 
