@@ -24,7 +24,7 @@ _Feature sheet examples that show descriptive copywriting, research, layout, and
 ### [MLS Property Listing (PDF)](./documents/mls.pdf)
 _Property listing that demonstrates marketing and TRESA compliance_
   
-## 3. Vintage/Retro Software User Manuals (Fun Flashback from the Vault!)
+## 3. Early Career Software Manuals (Fun Flashback)
 
 ### [Jack Flash User Guide (PDF)](./documents/JackFlash.pdf)
 _User guide for a Palm Pilot app that shows what apps were like before smart phones existed.<br>
