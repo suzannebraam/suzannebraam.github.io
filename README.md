@@ -21,7 +21,7 @@ _Standard operating procedures for a real estate admin supporting an agent_.
 ### [Standard Feature Sheet (PDF)](documents/onepagefeature.pdf) and [Double-sided Feature Sheet (PDF)](documents/twopagefeature.pdf)
 _Feature sheet examples that show descriptive copywriting, research, layout, and design_.
 
-### [MLS Property Listing (PDF)](./documents/mls.pdf)
+### [MLS Property Listing (PDF)](documents/mls.pdf)
 _Property listing that demonstrates marketing and TRESA compliance_
   
 ## 3. Early Career Software Manuals (Fun Flashback)
@@ -30,7 +30,7 @@ _Property listing that demonstrates marketing and TRESA compliance_
 _User guide for a Palm Pilot app that shows what apps were like before smart phones existed.<br>
 (Do you know what a Palm Pilot is?)_
 
-### [Getting Started with InContext Flashsite (PDF)](./)
+### [Getting Started with InContext Flashsite (PDF)]()
 _Excerpt from the web analyzer suite of software guides that I created in 5 months, back when software came with a printed manual_.<br>
 _I won a Society for Technical Communication Award of Merit for these guides in 1997_. (_Were you alive then?_)
 
