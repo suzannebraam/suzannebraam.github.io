@@ -94,19 +94,19 @@ One summer Dad made me a slingshot and showed me how to fling stones at a target
 I helped him build a tree house and a doll house. 
 
 Later, when I grew up had a house of my own, Dad was the one who came over and made repairs. 
-He constructed shelves in the garage, built shoe racks in the closets, and fixed warped studs in the walls. 
-
-He helped all of us with our projects. He helped the neighbours with their projects too. 
-
-Dad was the person in the neighbourhood that everyone borrowed tools from because he had **every tool** for **every job**. 
-
-Dad was the only resident at Sunnyside who brought a toolbox in with him just in case he needed to fix something.  
+- He constructed shelves in the garage, built shoe racks in the closets, and fixed warped studs in the walls.
+- He helped all of us with our projects.
+- He helped the neighbours with their projects too. 
+- Dad was the person in the neighbourhood that everyone borrowed tools from because he had **every tool** for **every job**.
+- Dad was the only resident at Sunnyside who brought a toolbox in with him just in case he needed to fix something.  
 
 ### Dad worked hard and he taught us to work hard. He didn’t “hang out” with us, he put us to work. 
 
 Growing up I used to hate all the chores and projects that we had to do. 
 
-### But as an adult I realize that he related to us through work and when he asked us to do something for him he was allowing us to love him. Dad was a man of his hands.
+*But as an adult I realize that he related to us through work and when he asked us to do something for him he was allowing us to love him.*
+
+### Dad was a man of his hands.
 
 ## And finally, Dad was a man of his faith. 
 
