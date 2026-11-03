@@ -1,4 +1,4 @@
-Frank Klassen 
+# Tribut to My Dad 
 
 Good morning. My name is Suzanne and I am Frank’s youngest daughter. On behalf of our family, we want to thank you for coming to celebrate dad’s life with us.  My dad loved to tell stories, and I am going to share a few the stories that dad shared with us to allow you to get to know this wonderful man a bit better. Eph 6: 2 says “Honour your father and mother so that it may go well with you and you may enjoy a long life on the earth”. I pray that this tribute honours his memory and that you get to see a bit of the character of this man we all love so much.
 
