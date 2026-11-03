@@ -1,9 +1,9 @@
-theme: jekyll-theme-minima
 title: Suzanne Braam
-description: Technical Writer
+description: Writing Portfolio
 
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-optional-front-matter
+- jekyll-remote-theme 
 
 defaults:
   - scope:
