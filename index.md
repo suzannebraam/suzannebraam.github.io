@@ -3,8 +3,6 @@
 
 I write clear documentation for people who need to get things done. I won a Society for Technical Communication Award of Merit in 1997 for software user guides, and I'm updating my skills for today's docs-as-code workflows.
 
-[LinkedIn]([www.linkedin.com/in/suzannebraam/]) | [Email]([srbraam@gmail.com])
-
 ## Technical Documentation
 
 ### [Resourcemate User Guide: Reserving a Library Book](resourcemate.html)
