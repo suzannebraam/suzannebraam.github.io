@@ -119,7 +119,7 @@ Dad came from a lineage of men and women who loved and served God.
 
 ### Although his generation didn’t talk about their faith, when my mom became ill, Dad began to rely on and share his faith.   
 
-**Romans 8:28**: And we know that in **all** **things** God **works** for the good of those who love Him, who have been called according to His purpose.
+**Romans 8:28**: *And we know that in **all** **things** God **works** for the good of those who love Him, who have been called according to His purpose.*
 
 Through this last year of dealing with illness, we have watched our Dad transform from an independent person to a person dependent on God. 
 - He became generous, thankful, and humble.
