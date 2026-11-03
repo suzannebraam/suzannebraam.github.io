@@ -98,7 +98,9 @@ He constructed shelves in the garage, built shoe racks in the closets, and fixed
 
 He helped all of us with our projects. He helped the neighbours with their projects too. 
 
-Dad was the person in the neighbourhood that everyone borrowed tools from because he had every tool for every job. Dad was the only resident at Sunnyside who brought a toolbox in with him just in case he needed to fix something.  
+Dad was the person in the neighbourhood that everyone borrowed tools from because he had **every tool** for **every job**. 
+
+Dad was the only resident at Sunnyside who brought a toolbox in with him just in case he needed to fix something.  
 
 ### Dad worked hard and he taught us to work hard. He didn’t “hang out” with us, he put us to work. 
 
