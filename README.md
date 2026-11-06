@@ -1,3 +1,8 @@
+---
+layout: default
+title: Suzanne Braam
+---
+
 # Technical Writer, Storyteller, and Queen of Pitch
 
 _I write things, I organize things, and I throw things away._<br>
