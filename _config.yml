@@ -1,0 +1,10 @@
+title: Suzanne Braam
+description: Writing Portfolio
+
+theme: jekyll-theme-slate
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
