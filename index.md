@@ -1,16 +1,16 @@
 ## About Me
 _I write things. I organize things. I throw things away_. <br>
-_I see what you need to keep or toss_.<br>
+_I see what you need to keep or pitch.<br>
 _I make systems and stories work better_. <br>
 _I help you declutter too. (Psst...you have too much stuff!)_ <br>
 _I streamline your stuff and your stories_. <br>
 
 ## Technical Documentation
 
-### [Creating Learning Resource Centre](lrc.html)
+### [Configuring a Learning Resource Centre](lrc.html)
 *Populated a digital education platform in two months. Data organization, indexing, creating thumbnails*
 
-### [User Guide: Reserving a Library Book from the Church Website](resourcemate.html)
+### [Reserving a Library Book from the Church Website User Guide](resourcemate.html)
 *Published in a church community Mailchimp e-newsletter. Procedure writing for non-technical users.*
 
 ## Early Career Software Manuals
@@ -26,4 +26,5 @@ _I streamline your stuff and your stories_. <br>
 
 -  [Real Estate Feature Sheet (PDF)](documents/onepagefeature.pdf) and [Two Page Feature Sheet (PDF)](documents/twopagefeature.pdf)
 -  [MLS Property Listing (PDF)](documents/mls.pdf)
+-  [Volunteer Policy and Procedure Guide (PDF)](documents/central.pdf)
 -  My [Substack](https://substack.com/@suzannebraam) where I publish personal essays and more creative stuff
