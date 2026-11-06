@@ -1,4 +1,3 @@
-
 _I write things. I organize things. I throw things away_. <br>
 _I see what to keep and what to toss_.<br>
 _I make systems and stories work better_. <br>
