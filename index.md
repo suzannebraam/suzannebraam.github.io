@@ -1,8 +1,8 @@
 ## About Me
 _I write things. I organize things. I throw things away_. <br>
-_I see what you need to keep or pitch_.<br>
+_I see what you need to keep or toss_. <br>
 _I make systems and stories work better_. <br>
-_I help you declutter too. (Psst...you have too much stuff!)_ <br>
+_I help you declutter too. (Psst...you have too much stuff. Can I help you pitch it?)_ <br>
 _I streamline your stuff and your stories_. <br>
 
 ## Technical Documentation
