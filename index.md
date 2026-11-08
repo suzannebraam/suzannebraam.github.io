@@ -26,4 +26,11 @@ _I streamline your stuff and your stories_. <br>
 -  [Real Estate Feature Sheet (PDF)](documents/onepagefeature.pdf) and [Two Page Feature Sheet (PDF)](documents/twopagefeature.pdf)
 -  [MLS Property Listing (PDF)](documents/mls.pdf)
 -  [Volunteer Policy and Procedure Guide (PDF)](documents/central.pdf)
--  My ![ZannWrites logo](/images/Logo.jpg) [Substack](https://substack.com/@suzannebraam) where I publish personal essays and more creative stuff
+
+## Creative Writing
+
+_I publish personal essays and other creative stuff on my Substack_:<br>
+<br>
+   <a href="https://substack.com/@suzannebraam">
+   <img src="./images/Logo.jpg" alt="My Substack" width="100">
+   </a> 
