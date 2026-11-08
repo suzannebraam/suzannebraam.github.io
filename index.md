@@ -26,4 +26,4 @@ _I streamline your stuff and your stories_. <br>
 -  [Real Estate Feature Sheet (PDF)](documents/onepagefeature.pdf) and [Two Page Feature Sheet (PDF)](documents/twopagefeature.pdf)
 -  [MLS Property Listing (PDF)](documents/mls.pdf)
 -  [Volunteer Policy and Procedure Guide (PDF)](documents/central.pdf)
--  My [Substack](https://substack.com/@suzannebraam) where I publish personal essays and more creative stuff
+-  My ![ZannWrites logo](/images/Logo.jpg) [Substack](https://substack.com/@suzannebraam) where I publish personal essays and more creative stuff
